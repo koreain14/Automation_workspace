@@ -10,7 +10,7 @@ namespace Test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("안녕친구야");
+            Console.WriteLine("응 그래 수정!!");
             Console.ReadKey();
         }
     }
